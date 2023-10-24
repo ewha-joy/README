@@ -5,8 +5,10 @@
 <br>
 
 ## 실행 영상
-<a href="https://drive.google.com/file/d/1oVxSsZW-N6JOUlBfHC3bcAGjB3oIVyK4/view?pli=1">
+<a href="https://drive.google.com/file/d/1oVxSsZW-N6JOUlBfHC3bcAGjB3oIVyK4/view?pli=1" target="_blank">
+  <picture>
   <img src = "https://github.com/ewha-joy/README/assets/37402084/148be777-6ad2-48b0-98a2-40410167a9cc" width= "600"/> 
+  </picture>
 </a>
 <br>
 <br>
