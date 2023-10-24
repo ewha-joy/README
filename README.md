@@ -1,11 +1,27 @@
 # README
 
 
-# Install_excute_ for OIDC
+## JOY툰
+- <a href = "http://27.96.131.221:3000/" > ~~조이툰 이동~~ </a> (현재 서버막아 놓음)
+- NFT 기반 웹툰수익 거래 종합 플랫폼입니다. 블록체인 기술인 NFT를 활용해 웹툰 소장권을 자유롭게 거래하고, 토큰 소유자들이 NFT소유 비율에 따라 웹툰 유료열람 수익료를 분배받을 수 있는 새로운 웹툰 종합 플랫폼을 제시합니다.
+- NFT Block chain 거래는 Klaytn 을 사용하였습니다.
 
-### <a href = "http://27.96.131.221:3000/" >조이툰 이동 </a>
-- 아래의 아이디 와 비밀번호를 통해 해당 서비스 이용가능
-- 📌현재 서버막아 놓음
+## 실행 영상
+<a href="https://google.com">
+  <img src = "https://github.com/ewha-joy/README/assets/37402084/148be777-6ad2-48b0-98a2-40410167a9cc"/> 
+</a>
+
+
+
+
+<br>
+
+## 아키텍처
+![ㄴㅇㄹ](https://github.com/ewha-joy/README/assets/37402084/f4f9af90-2393-4ecb-aea0-92832a307ea3)
+
+
+<br>
+
 
 ### 실행환경
 - java -version : java version "11.0.11" 2021-04-20 LTS
