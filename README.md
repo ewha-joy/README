@@ -70,7 +70,7 @@
 
 ### 로컬 코드 실행
 
-- <a href = https://github.com/ewha-joy> ewha-joy code </a> 레포지토리 git clone
+- <a href = https://github.com/EWHA-JOY> EWHA-JOY </a> 레포지토리 git clone
 - 로컬환경에서 백엔드와 프론트엔드 실행 (단, db는 클라우드를 이용함)
 
 1) config-server 실행
