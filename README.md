@@ -13,6 +13,7 @@
 <br>
 <br>
 
+
 ## 아키텍처
 <img src = "https://github.com/ewha-joy/README/assets/37402084/f4f9af90-2393-4ecb-aea0-92832a307ea3" width= "600"/> 
 <br>
